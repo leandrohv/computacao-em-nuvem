@@ -142,8 +142,8 @@ O sistema integra com:
 ## 📌 Observações
 Este estudo de caso pode servir como **prova de conceito** ou **laboratório prático** para arquitetos de nuvem e engenheiros DevOps que desejam validar uma migração realista de e-commerce para AWS.  
 
-📄 Licença
-MIT License – use/adapte com créditos.
-Última atualização: 30/08/2025.
-Elaborado por: Leandro Venâncio
+📄 Licença. 
+MIT License – use/adapte com créditos.  
+Última atualização: 30/08/2025.  
+Elaborado por: Leandro Venâncio. 
 Me segue nas redes sociais: https://linktr.ee/leandro.venancio
